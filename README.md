@@ -2,14 +2,17 @@
   <img src="banner_github.png" alt="Banner" width="100%">
 </p>
 
-# About Me 
-- 🎓 Electronic Engineer
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Data Analytics and Business Intelligence
-- 🧠 Research experience in ECG classification with CNNs
-- 🌱 Currently building AI-powered business applications
+# 👨‍💻 Sobre mí
 
-<h2 align="center">💻 Tech Stack</h2>
+- 🎓 Ingeniero Electrónico.
+- 🤖 Apasionado por la Inteligencia Artificial, el Machine Learning y la Ciencia de Datos.
+- 📊 Enfocado en Analítica de Datos e Inteligencia de Negocios.
+- 🧠 Experiencia en investigación aplicada a la clasificación de arritmias mediante redes neuronales convolucionales (CNN).
+- 🌱 Actualmente desarrollando aplicaciones inteligentes impulsadas por IA para resolver problemas reales de negocio.
+
+---
+
+<h2 align="center">💻 Tecnologías</h2>
 
 <p align="center">
 
@@ -42,9 +45,9 @@
 
 </p>
 
-🌟 Featured Projects
+---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Proyectos Destacados</h2>
 
 <table>
 <tr>
@@ -57,14 +60,14 @@
 
 ### 🤖 AI POS
 
-Sistema inteligente para gestión de inventario, ventas y analítica.
+Sistema inteligente para la gestión de inventario, ventas, clientes y analítica de negocios.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,react,postgres" />
+<img src="https://skillicons.dev/icons?i=python,react,postgres"/>
 </p>
 
 <a href="https://github.com/21DJMO/El_Cafecito_POS">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
 </a>
 
 </td>
@@ -77,10 +80,10 @@ Sistema inteligente para gestión de inventario, ventas y analítica.
 
 ### 📊 Selligent Labs
 
-Plataforma inteligente para análisis de ventas.
+Plataforma inteligente para el análisis de ventas y generación de indicadores de negocio.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
 <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
@@ -89,7 +92,7 @@ Plataforma inteligente para análisis de ventas.
 <br><br>
 
 <a href="https://github.com/21DJMO/Selligent-Labs">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
 </a>
 
 </td>
@@ -100,48 +103,48 @@ Plataforma inteligente para análisis de ventas.
 
 <td width="50%" align="center">
 
-<a href="TU_REPO_ECG">
+<a href="TU_REPOSITORIO_ECG">
 <img src="assets/ecg.png" width="100%" alt="ECG"/>
 </a>
 
-### 🫀 ECG Classification
+### 🫀 Clasificación de Arritmias
 
-Clasificación interpretable de arritmias mediante CNN.
+Modelo de Deep Learning para la clasificación interpretable de arritmias cardíacas mediante CNN.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 </p>
 
 <img src="https://img.shields.io/badge/SHAP-purple?style=for-the-badge"/>
 
 <br><br>
 
-<a href="TU_REPO_ECG">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+<a href="TU_REPOSITORIO_ECG">
+<img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-<a href="TU_REPO_TESIS">
-<img src="assets/thesis.png" width="100%" alt="Thesis"/>
+<a href="TU_REPOSITORIO_TESIS">
+<img src="assets/thesis.png" width="100%" alt="Tesis"/>
 </a>
 
-### 🧠 Multimodal Thesis
+### 🧠 Red Neuronal Multimodal
 
-Modelo multimodal para clasificación de arritmias.
+Modelo multimodal para la clasificación de arritmias utilizando señales ECG y datos tabulares.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 </p>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
 
 <br><br>
 
-<a href="TU_REPO_TESIS">
-<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+<a href="TU_REPOSITORIO_TESIS">
+<img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
 </a>
 
 </td>
@@ -150,16 +153,16 @@ Modelo multimodal para clasificación de arritmias.
 
 </table>
 
-📫 Contact
+---
 
-📧 21.djmo@gmail.com
+# 📫 Contacto
 
-💼 LinkedIn: https://www.linkedin.com/in/didier-moreno-934696371
-
-🌐 GitHub: https://github.com/21DJMO
+- 📧 **Correo:** 21.djmo@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/didier-moreno-934696371
+- 🌐 **GitHub:** https://github.com/21DJMO
 
 <div align="center">
 
-⭐ Turning data into intelligent solutions.
+### ⭐ Transformando datos en soluciones inteligentes para impulsar mejores decisiones de negocio.
 
 </div>
