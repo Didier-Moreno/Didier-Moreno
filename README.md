@@ -16,7 +16,11 @@ Data Scientist Junior • Machine Learning • AI • Data Analytics
 </div>
 
 # About Me 
-- 🎓 Electronic Engineer 🤖 Passionate about Artificial Intelligence & Machine Learning 📊 Data Analytics and Business Intelligence 🧠 Research experience in ECG classification with CNNs 🌱 Currently building AI-powered business applications
+- 🎓 Electronic Engineer
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 📊 Data Analytics and Business Intelligence
+- 🧠 Research experience in ECG classification with CNNs
+- 🌱 Currently building AI-powered business applications
 
 <h2 align="center">💻 Tech Stack</h2>
 
