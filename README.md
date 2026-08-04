@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola 👋 Soy Julian Moreno
 
-<!--
-**Didier-Moreno/Didier-Moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero Electrónico
 
-Here are some ideas to get you started:
+📊 Interesado en:
+- Ciencia de Datos
+- Inteligencia Artificial
+- Automatización
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+Python
+SQL
+Power BI
+Pandas
+Scikit-Learn
+TensorFlow
+Supabase
+Git
+
+## Proyectos Destacados
+
+📈 POS Inteligente
+🤖 Clasificación de ECG con Deep Learning
+📊 Dashboard de Ventas
