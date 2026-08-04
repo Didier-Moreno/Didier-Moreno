@@ -1,26 +1,47 @@
-# Hola 👋 Soy Julian Moreno
+──────────────────────────────────────────────
 
-🎓 Ingeniero Electrónico
+           👋 Hi, I'm Didier Moreno
 
-📊 Interesado en:
-- Ciencia de Datos
-- Inteligencia Artificial
-- Automatización
-- Machine Learning
+        Data Scientist • ML Engineer
+      AI • Data Analytics • Python
 
-## Tecnologías
+        [Typing Animation]
 
-Python
-SQL
-Power BI
-Pandas
-Scikit-Learn
-TensorFlow
-Supabase
-Git
+──────────────────────────────────────────────
 
-## Proyectos Destacados
+        🌎 Social Networks
 
-📈 POS Inteligente
-🤖 Clasificación de ECG con Deep Learning
-📊 Dashboard de Ventas
+ LinkedIn | Gmail | Portfolio | Instagram
+
+──────────────────────────────────────────────
+
+            💻 Tech Stack
+
+        (Skill Icons enormes)
+
+──────────────────────────────────────────────
+
+          🚀 Featured Projects
+
+      POS IA
+      ECG CNN
+      Selligent Labs
+      Thesis
+
+──────────────────────────────────────────────
+
+      📊 GitHub Statistics
+
+──────────────────────────────────────────────
+
+      📈 Contribution Graph
+
+──────────────────────────────────────────────
+
+      🏆 Certifications
+
+──────────────────────────────────────────────
+
+      ☕ Fun Facts
+
+──────────────────────────────────────────────
