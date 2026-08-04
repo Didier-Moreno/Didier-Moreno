@@ -27,19 +27,37 @@ Data Scientist Junior • Machine Learning • AI • Data Analytics
 
 🌱 Currently building AI-powered business applications
 
-💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,postgres,git,github,gitlab,react,tailwind,vscode&perline=5"/>
+
+<img src="https://skillicons.dev/icons?i=python" title="Python" width="55"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="55"/>
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="55"/>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="55"/>
+<img src="https://skillicons.dev/icons?i=git" title="Git" width="55"/>
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="55"/>
+<img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" width="55"/>
+<img src="https://skillicons.dev/icons?i=react" title="React" width="55"/>
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" width="55"/>
+
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Scikit-Learn"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" title="Plotly"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" title="Supabase"/>
+
 </p>
 
 🌟 Featured Projects
