@@ -144,7 +144,7 @@ Modelo multimodal para la clasificación de arritmias utilizando señales ECG y 
 <br><br>
 
 <a href="TU_REPOSITORIO_TESIS">
-<img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
+<img src="https://ieeexplore.ieee.org/abstract/document/11340419"/>
 </a>
 
 </td>
