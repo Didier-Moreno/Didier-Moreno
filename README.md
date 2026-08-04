@@ -15,17 +15,34 @@ Data Scientist Junior • Machine Learning • AI • Data Analytics
 
 </div>
 
-🚀 About Me
-
-🎓 Electronic Engineer
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-📊 Data Analytics and Business Intelligence
-
-🧠 Research experience in ECG classification with CNNs
-
-🌱 Currently building AI-powered business applications
+<br>
+## 🚀 About Me
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+- 🎓 **Electronic Engineer**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 📊 Focused on **Data Analytics & Business Intelligence**
+- 🧠 Research experience in **ECG classification with CNNs**
+- 🌱 Currently building **AI-powered business applications**
+</td>
+<td width="50%" valign="top">
+```python
+class Julian:
+    def __init__(self):
+        self.role = "Electronic Engineer"
+        self.focus = ["AI/ML", "Data Analytics", "BI"]
+        self.currently = "Building AI-powered apps"
+ 
+    def say_hi(self):
+        print("Thanks for stopping by! 🚀")
+```
+ 
+</td>
+</tr>
+</table>
+<br>
 
 <h2 align="center">💻 Tech Stack</h2>
 
