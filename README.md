@@ -44,45 +44,110 @@ Data Scientist Junior • Machine Learning • AI • Data Analytics
 
 🌟 Featured Projects
 
+<h2 align="center">🚀 Featured Projects</h2>
+
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
+
 <a href="https://github.com/21DJMO/El_Cafecito_POS">
-
-<img src="assets/pos.png"/>
-
+<img src="assets/pos.png" width="100%" alt="AI POS"/>
 </a>
 
-<h3 align="center">
-🤖 AI POS
-</h3>
+### 🤖 AI POS
 
-<p align="center">
-Sistema POS con IA, Dashboard y Analítica
+Sistema inteligente para gestión de inventario, ventas y analítica.
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,postgres" />
 </p>
+
+<a href="https://github.com/21DJMO/El_Cafecito_POS">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 <a href="https://github.com/21DJMO/Selligent-Labs">
-
-<img src="assets/selligent.png"/>
-
+<img src="assets/selligent.png" width="100%" alt="Selligent"/>
 </a>
 
-<h3 align="center">
-📊 Selligent Labs
-</h3>
+### 📊 Selligent Labs
 
-<p align="center">
-Plataforma de análisis inteligente de ventas
+Plataforma inteligente para análisis de ventas.
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
+
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/21DJMO/Selligent-Labs">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="TU_REPO_ECG">
+<img src="assets/ecg.png" width="100%" alt="ECG"/>
+</a>
+
+### 🫀 ECG Classification
+
+Clasificación interpretable de arritmias mediante CNN.
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<img src="https://img.shields.io/badge/SHAP-purple?style=for-the-badge"/>
+
+<br><br>
+
+<a href="TU_REPO_ECG">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="TU_REPO_TESIS">
+<img src="assets/thesis.png" width="100%" alt="Thesis"/>
+</a>
+
+### 🧠 Multimodal Thesis
+
+Modelo multimodal para clasificación de arritmias.
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+
+<br><br>
+
+<a href="TU_REPO_TESIS">
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
 
 📫 Contact
