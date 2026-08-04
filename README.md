@@ -44,52 +44,46 @@ Data Scientist Junior • Machine Learning • AI • Data Analytics
 
 🌟 Featured Projects
 
-Project
+<table>
+<tr>
 
-Description
+<td width="50%">
+<a href="https://github.com/21DJMO/El_Cafecito_POS">
 
+<img src="assets/pos.png"/>
+
+</a>
+
+<h3 align="center">
 🤖 AI POS
-
-Smart POS with analytics, inventory and AI assistant
-
-📈 Selligent Labs
-
-Sales analytics platform for SMEs
-
-🫀 ECG CNN
-
-Interpretable arrhythmia classification
-
-🧬 Multimodal Thesis
-
-Deep learning with ECG + tabular data
-
-📊 GitHub Stats
+</h3>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=21DJMO&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21DJMO&layout=compact&theme=tokyonight"/>
+Sistema POS con IA, Dashboard y Analítica
 </p>
+
+</td>
+
+<td width="50%">
+
+<a href="https://github.com/21DJMO/Selligent-Labs">
+
+<img src="assets/selligent.png"/>
+
+</a>
+
+<h3 align="center">
+📊 Selligent Labs
+</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=21DJMO&theme=tokyonight"/>
+Plataforma de análisis inteligente de ventas
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=21DJMO&theme=tokyo-night"/>
-</p>
+</td>
 
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=21DJMO&theme=tokyonight&row=1&column=6"/>
-</p>
-
-📜 Certifications
-
-Power BI + AI
-
-Data Mining & Data Quality with AI
+</tr>
+</table>
 
 📫 Contact
 
