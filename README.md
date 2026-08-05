@@ -102,7 +102,7 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 
 <p align="center">
 <a href="https://github.com/21DJMO/Selligent-Labs">
-<img src="https://img.shields.io/badge/Ver_Repositorio-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
 </a>
 
 <a href="https://selligent-labs-app.streamlit.app/">
