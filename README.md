@@ -91,6 +91,10 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 
 <img src="https://img.shields.io/badge/Plotly-blue?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 <br><br>
 
 <a href="https://github.com/21DJMO/Selligent-Labs">
