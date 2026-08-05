@@ -122,10 +122,9 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 <img src="IEEE-logo.png" width="100%" alt="Clasificación de Arritmias"/>
 </a>
 
-### 🫀 Clasificación de Arritmias
+### 🫀 Investigación Publicada en IEEE
 
-Artículo científico publicado sobre clasificación interpretable de arritmias cardíacas mediante Redes Neuronales Convolucionales (CNN).
-
+Desarrollo de un modelo de Inteligencia Artificial interpretable para la clasificación de arritmias cardíacas mediante Redes Neuronales Convolucionales (CNN), publicado en IEEE Colombian Caribbean Conference (C3).
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch"/>
 
@@ -162,9 +161,9 @@ Artículo científico publicado sobre clasificación interpretable de arritmias 
 <img src="DL.png" width="100%" alt="Red Neuronal Multimodal"/>
 </a>
 
-### 🧠 Red Neuronal Multimodal
+### 🧠 Modelo Multimodal para Clasificación de Arritmias (Proyecto de investigación)
 
-Modelo multimodal para la clasificación de arritmias utilizando señales ECG y datos tabulares.
+Desarrollo de un modelo de Inteligencia Artificial que integra señales ECG y características clínicas para mejorar la clasificación automática de arritmias mediante técnicas de Deep Learning.
 
 <p align="center">
 
