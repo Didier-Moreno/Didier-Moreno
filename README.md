@@ -152,7 +152,7 @@ Modelo multimodal para la clasificación de arritmias utilizando señales ECG y 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,vscode,git,github"/>
 
 </p>
 
