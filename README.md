@@ -56,7 +56,7 @@
 <td width="50%" align="center">
 
 <a href="https://github.com/21DJMO/El_Cafecito_POS">
-<img src="assets/pos.png" width="100%" alt="El Cafecito POS"/>
+<img src="POS.png" width="100%" alt="El Cafecito POS"/>
 </a>
 
 ### ☕ El Cafecito POS
@@ -76,7 +76,7 @@ Sistema inteligente para la gestión de inventario, ventas, clientes y analític
 <td width="50%" align="center">
 
 <a href="https://github.com/21DJMO/Selligent-Labs">
-<img src="assets/selligent.png" width="100%" alt="Selligent Labs"/>
+<img src="SelligentLabs.png" width="100%" alt="Selligent Labs"/>
 </a>
 
 ### 📊 Selligent Labs
@@ -106,7 +106,7 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 <td width="50%" align="center">
 
 <a href="https://ieeexplore.ieee.org/abstract/document/11340419">
-<img src="assets/ecg.png" width="100%" alt="Clasificación de Arritmias"/>
+<img src="IEEE-logo.png" width="100%" alt="Clasificación de Arritmias"/>
 </a>
 
 ### 🫀 Clasificación de Arritmias
