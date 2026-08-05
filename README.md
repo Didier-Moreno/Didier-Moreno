@@ -121,7 +121,7 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 Artículo científico publicado sobre clasificación interpretable de arritmias cardíacas mediante Redes Neuronales Convolucionales (CNN).
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch"/>
 
 </p>
 
