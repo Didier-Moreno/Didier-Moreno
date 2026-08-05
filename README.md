@@ -59,9 +59,9 @@
 <img src="POS.png" width="70%" alt="El Cafecito POS"/>
 </a>
 
-### ☕ El Cafecito POS
+### ☕ El Cafecito POS (Business Management)
 
-Sistema inteligente para la gestión de inventario, ventas, clientes y analítica de negocios.
+Sistema de gestión empresarial diseñado para administrar ventas, inventario, clientes y procesos comerciales de pequeños negocios.
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,react,postgres,javascript,vite,tailwind,supabase"/>
@@ -81,7 +81,7 @@ Sistema inteligente para la gestión de inventario, ventas, clientes y analític
 
 ### 📊 Selligent Labs
 
-Plataforma inteligente para el análisis de ventas y generación de indicadores de negocio.
+Plataforma inteligente de analítica de negocios que transforma datos de ventas en indicadores, visualizaciones y reportes para apoyar la toma de decisiones.
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,vscode"/>
