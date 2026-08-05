@@ -64,7 +64,7 @@
 Sistema inteligente para la gestión de inventario, ventas, clientes y analítica de negocios.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,react,postgres"/>
+<img src="https://skillicons.dev/icons?i=python,react,postgres,react,javascript,vite,tailwind,supabase"/>
 </p>
 
 <a href="https://github.com/21DJMO/El_Cafecito_POS">
@@ -84,7 +84,7 @@ Sistema inteligente para la gestión de inventario, ventas, clientes y analític
 Plataforma inteligente para el análisis de ventas y generación de indicadores de negocio.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,vscode"/>
 </p>
 
 <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
@@ -114,10 +114,23 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 Artículo científico publicado sobre clasificación interpretable de arritmias cardíacas mediante Redes Neuronales Convolucionales (CNN).
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn"/>
+
 </p>
 
-<img src="https://img.shields.io/badge/SHAP-purple?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/SHAP-7B61FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NeuroKit2-00B894?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
 
 <br><br>
 
@@ -137,11 +150,25 @@ Artículo científico publicado sobre clasificación interpretable de arritmias 
 
 Modelo multimodal para la clasificación de arritmias utilizando señales ECG y datos tabulares.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn"/>
+
 </p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/SHAP-7B61FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NeuroKit2-00B894?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</p>
 
 <br><br>
 
