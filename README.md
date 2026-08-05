@@ -101,7 +101,7 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 <br><br>
 
 <p align="center">
-<a href="[https://github.com/21DJMO/Selligent-Labs](https://github.com/Didier-Moreno/selligent-labs-app)">
+<a href="https://github.com/Didier-Moreno/selligent-labs-app">
 <img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
 </a>
 
