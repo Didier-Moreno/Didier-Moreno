@@ -122,7 +122,7 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 <img src="IEEE-logo.png" width="100%" alt="Clasificación de Arritmias"/>
 </a>
 
-### 🫀 Investigación Publicada en IEEE
+### 🫀 Artículo Científico Publicado en IEEE
 
 Desarrollo de un modelo de Inteligencia Artificial interpretable para la clasificación de arritmias cardíacas mediante Redes Neuronales Convolucionales (CNN), publicado en IEEE Colombian Caribbean Conference (C3).
 <p>
