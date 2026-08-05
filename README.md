@@ -56,7 +56,7 @@
 <td width="50%" align="center">
 
 <a href="https://github.com/21DJMO/El_Cafecito_POS">
-<img src="POS.png" width="100%" alt="El Cafecito POS"/>
+<img src="POS.png" width="70%" alt="El Cafecito POS"/>
 </a>
 
 ### ☕ El Cafecito POS
