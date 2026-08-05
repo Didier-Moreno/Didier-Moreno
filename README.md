@@ -64,7 +64,7 @@
 Sistema inteligente para la gestión de inventario, ventas, clientes y analítica de negocios.
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,react,postgres,react,javascript,vite,tailwind,supabase"/>
+<img src="https://skillicons.dev/icons?i=python,react,postgres,javascript,vite,tailwind,supabase"/>
 </p>
 
 <a href="https://github.com/21DJMO/El_Cafecito_POS">
@@ -173,7 +173,7 @@ Modelo multimodal para la clasificación de arritmias utilizando señales ECG y 
 <br><br>
 
 <a href="https://github.com/Didier-Moreno/12ECG">
-<img src="https://img.shields.io/badge/Ver_Código-24292F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ver_Proyecto-6C63FF?style=for-the-badge"/>
 </a>
 
 </td>
