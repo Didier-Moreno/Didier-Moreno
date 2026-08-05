@@ -76,7 +76,7 @@ Sistema inteligente para la gestión de inventario, ventas, clientes y analític
 <td width="50%" align="center">
 
 <a href="https://github.com/21DJMO/Selligent-Labs">
-<img src="SelligentLabs.png" width="100%" alt="Selligent Labs"/>
+<img src="SLabs.png" width="100%" alt="Selligent Labs"/>
 </a>
 
 ### 📊 Selligent Labs
@@ -130,7 +130,7 @@ Artículo científico publicado sobre clasificación interpretable de arritmias 
 <td width="50%" align="center">
 
 <a href="https://github.com/Didier-Moreno/12ECG">
-<img src="assets/thesis.png" width="100%" alt="Red Neuronal Multimodal"/>
+<img src="DL.png" width="100%" alt="Red Neuronal Multimodal"/>
 </a>
 
 ### 🧠 Red Neuronal Multimodal
