@@ -95,6 +95,9 @@ Plataforma inteligente para el análisis de ventas y generación de indicadores 
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Scikit-Learn"/>
+
+
 <br><br>
 
 <a href="https://github.com/21DJMO/Selligent-Labs">
@@ -134,6 +137,9 @@ Artículo científico publicado sobre clasificación interpretable de arritmias 
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Scikit-Learn"/>
+
+
 </p>
 
 <br><br>
@@ -171,6 +177,9 @@ Modelo multimodal para la clasificación de arritmias utilizando señales ECG y 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Scikit-Learn"/>
+
 
 </p>
 
